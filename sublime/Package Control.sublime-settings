@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ayu",
+		"Boxy Theme",
+		"Color Scheme - Vintage Terminal",
+		"Git",
+		"Github Tools",
+		"HTML5",
+		"JSON Reindent",
+		"LaTeXBox",
+		"Markdown Preview",
+		"MarkdownLivePreview",
+		"MetaQuotes (MQL4) Language Package",
+		"OpenGL Shading Language (GLSL)",
+		"Package Control",
+		"PackageResourceViewer",
+		"Phpcs",
+		"Pretty JSON",
+		"PyRefactor",
+		"Python Breakpoints",
+		"Python Completions",
+		"Sass",
+		"SASS Snippets",
+		"Theme - Alpenglow",
+		"Theme - Minimist",
+		"Theme - SoDaReloaded"
+	]
+}
