@@ -5,6 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
+		"Anaconda",
+		"Angular2 HTML Syntax",
 		"ayu",
 		"Boxy Theme",
 		"Color Scheme - Vintage Terminal",
@@ -26,6 +29,7 @@
 		"Python Completions",
 		"Sass",
 		"SASS Snippets",
+		"sublime-text-2-buildview",
 		"Theme - Alpenglow",
 		"Theme - Minimist",
 		"Theme - SoDaReloaded"

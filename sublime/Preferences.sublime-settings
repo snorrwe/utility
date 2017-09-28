@@ -8,5 +8,6 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"theme": "Boxy Tomorrow.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"show_panel_on_build": false
 }
