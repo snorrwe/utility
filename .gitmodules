@@ -1,0 +1,3 @@
+[submodule "sublime-text-settings"]
+	path = sublime-text-settings
+	url = https://github.com/snorrwe/sublime-text-settings.git
